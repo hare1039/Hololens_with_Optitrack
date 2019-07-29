@@ -1,0 +1,2 @@
+D:\Leo\School\NCTU\大四\專題\HapticSphereApp_V2\HapticSphere_V2\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+D:\Leo\School\NCTU\大四\專題\HapticSphereApp_V2\HapticSphere_V2\App\HapticSphere_V2\HapticSphere_V2.csproj;arm

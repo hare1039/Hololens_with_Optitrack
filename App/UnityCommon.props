@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HapticSphere_V2</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Leo\School\NCTU\大四\專題\HapticSphereApp_V2\HapticSphere_V2\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Leo\School\NCTU\大四\專題\HapticSphereApp_V2\HapticSphere_V2\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Unity3D\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
